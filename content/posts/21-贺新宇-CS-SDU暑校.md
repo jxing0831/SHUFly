@@ -1,13 +1,15 @@
 ---
-title: "21-贺新宇-CS-SDU暑校"
+title: "刚出新手村就被拉进地狱副本😱？！一次萌新被拷打的经历"
 date: 2022-10-01T22:08:02+08:00
 categories: [暑校]
 tags: [CS,SDU,计院]
-author: EthanH3514
+authorlink: https://ethanh3514.github.io/
+author: 贺新宇
+lastmod: 2023-01-07T23:06:09+08:00
 draft: false
 ---
 
-坐标上大计院，计科21分流萌新，时值7月，暑期的计算机实训刚刚结束，面对开始的暑假，不想在摆烂中虚度年华，正好在[开源社区(@SHUOSC)](https://github.com/shuosc)学长`@jxing0831`推荐下，报名参加了[**第八届SDU可视计算暑期学校**](http://irc.cs.sdu.edu.cn/2022-summer-school/index.html#date)，下面主要分享一下本人的参与经验与感受。
+坐标上大计院，计科21分流萌新，时值7月，暑期的计算机实训刚刚结束，面对开始的暑假，不想在摆烂中虚度年华，正好在[开源社区(@SHUOSC)](https://github.com/shuosc)学长`@湃大行`推荐下，报名参加了[**第八届SDU可视计算暑期学校**](http://irc.cs.sdu.edu.cn/2022-summer-school/index.html#date)，下面主要分享一下本人的参与经验与感受。
 
 ---
 
@@ -72,4 +74,4 @@ draft: false
 
 ---
 
-<font size=20>写于2022.10.1, Powered by [_**SHUOSC_EthanH3514**_](https://github.com/EthanH3514).</font>
+*写于2022.10.1*
